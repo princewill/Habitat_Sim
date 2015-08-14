@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ g
+comment0.target=Breadcrumb(int,\ int,\ Garden)
+comment0.text=\r\n\ Assign\ the\ garden,\ and\ set\ the\ coordinates\ as\ per\ the\ parameters\r\n
+comment1.params=g
+comment1.target=Breadcrumb(Garden)
+comment1.text=\r\n\ Assign\ the\ garden,\ and\ give\ an\ initial\ default\ position\ (0,\ 0)\r\n
+comment2.params=
+comment2.target=void\ capture()
+comment2.text=\r\n\ Mutator\ that\ sets\ the\ alive\ variable\ to\ false.\r\n
+comment3.params=
+comment3.target=boolean\ isPresent()
+comment3.text=\r\n\ whether\ the\ crumbs\ is\ alive\r\n
+numComments=4

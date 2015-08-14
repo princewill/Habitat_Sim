@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ h
+comment0.target=PartsOfGarden(int,\ int,\ Habitat)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Parts\r\n
+comment1.params=h
+comment1.target=PartsOfGarden(Habitat)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Parts\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Returns\ the\ value\ of\ the\ x-coordinate\ \ \ \r\n\ @return\ \ \ \ \ x\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ Returns\ the\ value\ of\ the\ y-coordinate\ \ \ \r\n\ @return\ \ \ \ y\r\n
+numComments=4

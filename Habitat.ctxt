@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getSize()
+comment0.text=\r\n\ Accessor\ to\ the\ size\ of\ the\ garden\r\n
+comment1.params=
+comment1.target=void\ print()
+comment1.text=\r\n\ Print\ a\ string\ representation\ of\ the\ garden.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ a\ string\ representation\ of\ the\ garden\ (as\ per\ the\ illustration\ in\ the\ assignment)\r\n
+comment3.params=
+comment3.target=void\ moveInhabitants()
+comment3.text=\r\n\ Move\ the\ occupants\ of\ the\ habitat.\r\n
+numComments=4

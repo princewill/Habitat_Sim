@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y\ h
+comment0.target=Animal(int,\ int,\ Habitat)
+comment0.text=\r\n\ Assign\ the\ habitat,\ and\ set\ the\ coordinates\ as\ per\ the\ parameters\r\n
+comment1.params=
+comment1.target=int\ getX()
+comment1.text=\r\n\ Returns\ the\ value\ of\ the\ x-coordinate\ \ \ \r\n\ @return\ \ \ \ \ x\r\n
+comment2.params=
+comment2.target=int\ getY()
+comment2.text=\r\n\ Returns\ the\ value\ of\ the\ y-coordinate\ \ \ \r\n\ @return\ \ \ \ y\r\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ Move\ one\ step\ in\ the\ right\ direction.\r\n
+comment4.params=i\ k
+comment4.target=boolean\ canGoTo(int,\ int)
+comment4.text=\r\n\ Tests\ to\ see\ if\ the\ move\ is\ valid\:\ can't\ go\ outside\ the\ bounds,\r\n\ and\ can't\ jump\ or\ move\ diagonally.\r\n\ \r\n\ @return\ true\ of\ move\ ok,\ false\ if\ illegal\r\n
+numComments=5

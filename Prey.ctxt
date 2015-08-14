@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=x\ y\ j
+comment0.target=Prey(int,\ int,\ Jungle)
+comment0.text=\r\n\ Assign\ the\ jungle,\ and\ set\ the\ coordinates\ as\ per\ the\ parameters\r\n
+comment1.params=j
+comment1.target=Prey(Jungle)
+comment1.text=\r\n\ Assign\ the\ jungle,\ and\ give\ an\ initial\ default\ position\ (0,\ 0)\r\n
+comment2.params=
+comment2.target=void\ capture()
+comment2.text=\r\n\ Mutator\ that\ sets\ the\ alive\ variable\ to\ false.\r\n
+comment3.params=
+comment3.target=boolean\ isAlive()
+comment3.text=\r\n\ whether\ the\ prey\ is\ alive\r\n
+comment4.params=
+comment4.target=Predator\ Closepred()
+comment4.text=\r\n\ Finds\ Closest\ Predator\r\n\r\n\ @return\ \ \ \ \ the\ Closest\ Predator\r\n
+comment5.params=
+comment5.target=void\ move()
+comment5.text=\r\n\ Move\ one\ step\ away\ from\ the\ predator.\r\n\ Remember\ that\ you\ CAN\ move\ diagonally.\ \ \ \ \ \ \ \ \r\n
+comment6.params=i\ k
+comment6.target=boolean\ canGoTo(int,\ int)
+comment6.text=\r\n\ Tests\ to\ see\ if\ the\ move\ is\ valid\:\ can't\ go\ outside\ the\ bounds.\r\n\ \r\n\ @return\ true\ of\ move\ ok,\ false\ if\ illegal\r\n
+numComments=7
